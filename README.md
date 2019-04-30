@@ -1,6 +1,6 @@
-# WHERE TO EAT IN EUROPE?
+## WHERE TO EAT IN EUROPE?
 
-## SENTIMENT ANALYSIS ON TRIPADVISOR RESTAURANTS INFO FOR 31 EUROPEAN CITIES.
+### SENTIMENT ANALYSIS ON TRIPADVISOR RESTAURANTS INFO FOR 31 EUROPEAN CITIES.
 
 ### Dataset and Attribute information:
 This dataset contains information scrapped from the TripAdvisor (TA) website about restaurants in 31 European cities. The cities listed are from different European countries: Amsterdam (NL), Athens (GR), Barcelona (ES), Berlin (DE), Bratislava (SK), Bruxelles (BE), Budapest (HU), Copenhagen (DK), Dublin (IE), Edinburgh (UK), Geneva (CH), Helsinki (FI), Hamburg (DE), Krakow (PL), Lisbon (PT), Ljubljana (SI), London (UK), Luxembourg (LU), Madrid (ES), Lyon (FR), Milan 
